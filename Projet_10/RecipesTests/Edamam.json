@@ -1,0 +1,36 @@
+{
+    
+    "_links": {
+        "next": {
+            "href": "https://api.edamam.com/api/recipes/v2?q=egg%2Ctomate&app_key=5e7f04a3e17119880911425a28facd3c&_cont=CHcWQT1OcV9xBB8VADQWVhFCPwoxXVZEITQeVDcBaR4-SQ%3D%3D&type=public&app_id=8a76e4ee",
+            "title": "Next page"
+        }
+    },
+    "hits": [
+        {
+            "recipe": {
+                "label": "Pan con Tomate with Fried Eggs",
+                "image": "https://www.edamam.com/web-img/b09/b0993d697c625c04bf9e0780e683c317.jpg",
+                "url": "https://www.taste.com.au/recipes/caillettes-de-nice-sauce-tomate-bagna-rotou/eb4b0f80-6b07-42fb-a7d6-bbc545f811bb",
+                "yield": 4,
+                "ingredientLines": [
+                    "4 thick slices of country style bread",
+                    "olive oil",
+                    "1 fat clove of garlic, peeled",
+                    "1 large ripe tomato, cut in half",
+                    "4 large eggs",
+                    "salt and pepper"
+                ],
+                "calories": 4357.2302236180385,
+            },
+            "bookmarked": false,
+            "bought": false,
+            "_links": {
+                "self": {
+                    "href": "https://api.edamam.com/api/recipes/v2/095fbe373b5ef9208e855d1a0384f40f?type=public&app_id=39934107&app_key=4034ca4fa32a56bd13a9c38ea06137be",
+                    "title": "Self"
+                }
+            }
+        }
+    ]
+}
